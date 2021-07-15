@@ -1,4 +1,4 @@
-age,workclass,education,education years,marital status,occupation,relationship,race,sex,hours/week,native country,>50k
+age,workclass,education,education years,marital status,occupation,relationship,race,sex,hours/week,native country,over50k
 39, State-gov, Bachelors,13, Never-married, White-Collar, Not-in-family, White, Male,40, United-States,0
 50, Self-emp-not-inc, Bachelors,13, Married-civ-spouse, White-Collar, Husband, White, Male,13, United-States,0
 38, Private, HS-grad,9, Divorced, Blue-Collar, Not-in-family, White, Male,40, United-States,0
