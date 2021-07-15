@@ -1,4 +1,4 @@
-age,workclass,education,education years,marital status,occupation,relationship,race,sex,hours/week,native country,>50k
+age,workclass,education,education years,marital status,occupation,relationship,race,sex,hours/week,native country,over50k
 17, Private, Some-HS,8, Never-married, Blue-Collar, Own-child, White, Male,16, United-States,0
 32, Private, Some-college,10, Married-civ-spouse, White-Collar, Husband, White, Male,40, Mexico,0
 31, Private, HS-grad,9, Never-married, Blue-Collar, Not-in-family, White, Male,45, United-States,0
